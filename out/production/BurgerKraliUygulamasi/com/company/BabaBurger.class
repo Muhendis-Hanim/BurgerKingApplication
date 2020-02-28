@@ -1,0 +1,20 @@
+AHF).</string>
+  
+    <!-- == PrefetchW Support == -->
+    <!-- %1 is the OS trying to be installed. This message is displayed during Windows Setup to indicate a processor -->
+    <!-- does not support the PrefetchW CPU instructions and won't be able to install Windows -->
+    <string id="PrefetchWSupportHardText">O processador deste PC não suporta uma funcionalidade crítica (PrefetchW).</string>
+
+    <!-- == NX Support = -->
+    <string id="NXSupportHardText">O processador deste PC não suporta uma funcionalidade crítica (NX).</string>
+
+    <!-- == WLAN FAT Driver -->
+    <string id="WlanHardText">Não é possível instalar %1 porque a placa de rede sem fios não cumpre os requisitos de atualização.</string>
+    
+    <!-- == SOC Block == -->
+    <string id="SOCBlockText">Tem de instalar uma ou mais atualizações ao firmware ou aos controladores de dispositivo. Abra o Windows Update, instale todas as atualizações disponíveis e volte a tentar instalar %1.</string>
+
+    <!-- == Display Resolution = -->
+    <string id="DisplayResolutionHardText">A resolução do seu ecrã tem de ser de, no mínimo, 1024 x 768.</string>
+
+    <!-- 
